@@ -1,0 +1,2 @@
+# signature_extractor
+An application in initial phase of development which has capability to extract signatures from documents using  scikit-learn, numpy, matplot and opencv modules. Takes cue from https://medium.com/analytics-vidhya/signature-recognition-using-opencv-2c99d878c66d and https://medium.com/analytics-vidhya/signature-recognition-using-opencv-part-2-62685586d566 with slight difference in formula values and formatting.
